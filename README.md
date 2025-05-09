@@ -10,8 +10,8 @@
     ```
 2. **Clone the repository**:
     ```bash
-    git clone https://github.com/Eshya/mocha-tes
-    cd mocha-test
+    git clone https://github.com/Eshya/molca-tes
+    cd molca-test
     ```
 3. **Install dependencies**:
     ```bash
@@ -24,8 +24,8 @@
 2. **Clone the repository**:
     - Open Command Prompt or PowerShell and run:
       ```cmd
-      git clone https://github.com/Eshya/mocha-tes
-      cd mocha-test
+      git clone https://github.com/Eshya/molca-tes
+      cd molca-test
       ```
 3. **Install dependencies**:
     ```cmd
@@ -40,8 +40,8 @@
       ```
 2. **Clone the repository**:
     ```bash
-    git clone https://github.com/Eshya/mocha-tes
-    cd mocha-test
+    git clone https://github.com/Eshya/molca-tes
+    cd molca-test
     ```
 3. **Install dependencies**:
     ```bash
